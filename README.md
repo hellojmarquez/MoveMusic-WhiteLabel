@@ -26,7 +26,9 @@ persistence before interacting with S3, MongoDB, or the MoveMusic API.
 - JWT authentication with secure cookies
 - Temporary session-based track storage with MongoDB
 
-> 🔑 **Demo credentials:** user@demo.com / 123456  
+## 🔑 Demo credentials: 
+- **User:** user@demo.com
+- **Password**: 123456  
 > *(Read-only demo account — no real data)*
 
 ## Tech Stack
